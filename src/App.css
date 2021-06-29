@@ -28,6 +28,47 @@
   color: #61dafb;
 }
 
+.App-data-table{
+  border-collapse: collapse;
+  border: 1px solid black;
+
+}
+.App-div{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+.App-col{
+  text-align: right;
+}
+
+.App-Good{
+  background-color: #00e600;
+}
+
+.App-Sat{
+  background-color: #009900;
+}
+.App-Mod{
+  background-color: #ffff66;
+}
+.App-Poor{
+  background-color: #ff8c00;
+}
+.App-VP{
+  background-color: #e60000;
+}
+.App-Sev{
+  background-color: #990000;
+}
+
+.App-Table-Size{
+  height: 700px;
+  width: 500px;
+}
+.App-Sp-Left{
+  margin: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +77,4 @@
     transform: rotate(360deg);
   }
 }
+

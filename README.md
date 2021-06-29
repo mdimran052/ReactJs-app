@@ -1,3 +1,8 @@
+## Proximity Assignment
+Desc:- The project was to create a dashboard for displaying Air Quality Index. Have used react components and recharts to design the page.
+
+The time taken to complete project was approximately 12hrs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
