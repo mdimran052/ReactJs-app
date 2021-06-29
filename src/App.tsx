@@ -16,7 +16,7 @@ import {
 
 function App() {
   //Public API that will echo messages sent to it back to the client
-  const [socketUrl, setSocketUrl] = useState('ws://city-ws.herokuapp.com');
+  const [socketUrl, setSocketUrl] = useState('wss://city-ws.herokuapp.com');
   const {
     lastMessage
   } = useWebSocket(socketUrl);
